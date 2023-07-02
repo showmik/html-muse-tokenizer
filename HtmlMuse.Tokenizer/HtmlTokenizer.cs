@@ -1,7 +1,7 @@
 ﻿using HtmlMuse.Tokenizer.States;
 using HtmlMuse.Tokenizer.Tokens;
 
-namespace HtmlMuse;
+namespace HtmlMuse.Tokenizer;
 
 public class HtmlTokenizer
 {
