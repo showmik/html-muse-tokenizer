@@ -2,9 +2,9 @@
 
 **HtmlMuse.Tokenizer** is a lightweight HTML tokenizer library written in C#. It provides functionality to tokenize HTML code and extract individual tokens. The tokenizer serves as a fundamental building block for parsing and analyzing HTML documents, paving the way for the creation of a comprehensive Document Object Model (DOM) or parse tree.
 
-## HTML Living Standard
+## </> HTML Living Standard
 
-The tokenizer follows the **HTML Living Standard** specification. The **HTML Living Standard** is a comprehensive specification that defines the syntax and parsing rules for HTML. It provides a set of states and behaviors that the tokenizer must adhere to when tokenizing HTML code. You can find the complete **HTML Living Standard** specification [here](https://html.spec.whatwg.org/multipage/parsing.html).
+This tokenizer follows the **HTML Living Standard** specification. The **HTML Living Standard** is a comprehensive specification that defines the syntax and parsing rules for HTML. It provides a set of states and behaviors that the tokenizer must adhere to when tokenizing HTML code. You can find the complete **HTML Living Standard** specification [here](https://html.spec.whatwg.org/multipage/parsing.html).
 
 ## 🔎 Project Overview
 
