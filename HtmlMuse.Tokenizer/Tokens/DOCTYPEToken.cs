@@ -11,4 +11,9 @@ public class DOCTYPEToken : Token
     {
         ForceQuirks = false;
     }
+
+    public override string ToString()
+    {
+        return $"(DOCTYPE) -> Name: {Name},  PublicID: {PublicIdentifier},  SystemID: {SystemIdentifier},   ForceQuirks: {ForceQuirks}";
+    }
 }

@@ -11,4 +11,9 @@ public class EndTagToken : Token, ITagToken
         IsSelfClosing = false;
         Attributes = new List<Attribute>();
     }
+
+    public override string ToString()
+    {
+        return $"(StartTag) -> TagName: {TagName},  SelfClosing: {IsSelfClosing},  Attributes: {Attributes.Count}";
+    }
 }
