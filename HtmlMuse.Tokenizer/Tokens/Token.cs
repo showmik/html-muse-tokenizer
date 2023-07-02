@@ -1,14 +1,4 @@
-﻿namespace HtmlMuse.Tokenizer.Tokens;
-
-public enum TokenType
-{
-    DOCTYPEToken,
-    CommentToken,
-    StartTagToken,
-    EndTagToke,
-    CharacterToke,
-    EndOfFileToken
-};
+﻿namespace HtmlMuse.Tokenizer;
 
 public abstract class Token
 {
