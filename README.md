@@ -6,18 +6,18 @@
 
 The tokenizer follows the **HTML Living Standard** specification. The **HTML Living Standard** is a comprehensive specification that defines the syntax and parsing rules for HTML. It provides a set of states and behaviors that the tokenizer must adhere to when tokenizing HTML code. You can find the complete **HTML Living Standard** specification [here](https://html.spec.whatwg.org/multipage/parsing.html).
 
-## Project Overview
+## 🔎 Project Overview
 
 The goal of this project is to build a robust HTML tokenizer using C#. The tokenizer acts as a state machine, consuming input characters and transitioning between different states according to the HTML specification.
 
 The project is currently a work in progress, and the following tasks are planned:
 
-- Implement all the tokenizing states defined in the HTML Living Standard specification.
-- Develop unit tests to ensure correct behavior.
-- Refine and optimize the tokenizer algorithm.
-- Utilize the tokenizer to build a robust and feature-rich HTML parser
+- ☐ Implement all the tokenizing states defined in the HTML Living Standard specification.
+- ☐ Develop unit tests to ensure correct behavior.
+- ☐ Refine and optimize the tokenizer algorithm.
+- ☐ Utilize the tokenizer to build a robust and feature-rich HTML parser
 
-## Usage
+## ⚙️ Usage
 
 Here's a simple example that demonstrates how to use HtmlMuse.Tokenizer to tokenize an HTML document:
 
@@ -73,19 +73,19 @@ foreach (Token token in tokens)
 (End Of File)
 ```
 
-## Contributions
+## 🤝 Contributions
 
 Contributions to this project are welcome! Since it's a work in progress, you can contribute by implementing the planned tasks, improving existing code, or suggesting new features. Please open an issue or submit a pull request on GitHub to contribute.
 
-## License
+## 📑 License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for both personal and commercial projects.
 
-## Acknowledgements
+## ✨ Acknowledgements
 
 **HtmlMuse.Tokenizer** is inspired by the **HTML Living Standard** specification and aims to provide a reliable and compliant tokenizer implementation in C#. Special thanks to the contributors and maintainers of the **HTML Living Standard** for their valuable work.
 
-## Contact
+## 📧 Contact
 
 For any questions or inquiries, please contact [intisarbnaim@gmail.com](mailto:intisarbnaim@gmail.com).
 
