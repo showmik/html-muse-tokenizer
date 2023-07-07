@@ -79,7 +79,7 @@ Contributions to this project are welcome! Since it's a work in progress, you ca
 
 ## 📑 License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for both personal and commercial projects.
+This project is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use, modify, and distribute the code for both personal and commercial projects.
 
 ## ✨ Acknowledgements
 
