@@ -14,6 +14,6 @@ public class EndTagToken : Token, ITagToken
 
     public override string ToString()
     {
-        return $"(StartTag) -> TagName: {TagName},  SelfClosing: {IsSelfClosing},  Attributes: {Attributes.Count}";
+        return $"(EndTag) -> TagName: {TagName},  SelfClosing: {IsSelfClosing},  Attributes: {Attributes.Count}";
     }
 }
