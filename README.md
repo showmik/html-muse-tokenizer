@@ -81,10 +81,6 @@ Contributions to this project are welcome! Since it's a work in progress, you ca
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use, modify, and distribute the code for both personal and commercial projects.
 
-## ✨ Acknowledgements
-
-**HtmlMuse.Tokenizer** is inspired by the **HTML Living Standard** specification and aims to provide a reliable and compliant tokenizer implementation in C#. Special thanks to the contributors and maintainers of the **HTML Living Standard** for their valuable work.
-
 ## 📧 Contact
 
 For any questions or inquiries, please contact [intisarbnaim@gmail.com](mailto:intisarbnaim@gmail.com).
