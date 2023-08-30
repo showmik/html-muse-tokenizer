@@ -30,10 +30,10 @@ string htmlCode = "<!DOCTYPE html><html><body><!-- HTML MUSE --><h1>Happy, <br/>
 HtmlTokenizer tokenizer = new HtmlTokenizer(htmlCode);
 
 // Retrieve all tokens
-List<Token> tokens = tokenizer.GetAllTokens();
+var tokens = tokenizer.GetAllTokens();
 
 // Iterate through the tokens
-foreach (Token token in tokens)
+foreach (var token in tokens)
 {
     Console.WriteLine(token);
 }
